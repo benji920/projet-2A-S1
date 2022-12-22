@@ -1,0 +1,3143 @@
+# depslib dependency file v1.0
+1606310055 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606310055 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606310055 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606310055 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\carte.h
+	<string>
+
+1606312671 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\attaque.h
+	<string>
+	<iostream>
+
+1606312671 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606310055 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\energie.h
+	"Carte.h"
+
+1606310055 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606312672 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606310055 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606310055 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606310055 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606313420 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606310056 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606313953 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\joueur.h
+	<string>
+	<vector>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+
+1606313334 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606313953 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606318671 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606310056 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+
+1606310056 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606313804 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben merge\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606310056 source:c:\users\leski\desktop\ecemon v8\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606310056 c:\users\leski\desktop\ecemon v8\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606310056 c:\users\leski\desktop\ecemon v8\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606310056 c:\users\leski\desktop\ecemon v8\ecemon\carte.h
+	<string>
+
+1606312672 c:\users\leski\desktop\ecemon v8\ecemon\attaque.h
+	<string>
+	<iostream>
+
+1606312672 source:c:\users\leski\desktop\ecemon v8\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606310056 c:\users\leski\desktop\ecemon v8\ecemon\energie.h
+	"Carte.h"
+
+1606310056 source:c:\users\leski\desktop\ecemon v8\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606312674 source:c:\users\leski\desktop\ecemon v8\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606310056 source:c:\users\leski\desktop\ecemon v8\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606310056 source:c:\users\leski\desktop\ecemon v8\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606310056 c:\users\leski\desktop\ecemon v8\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606313422 source:c:\users\leski\desktop\ecemon v8\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606310058 c:\users\leski\desktop\ecemon v8\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606313954 c:\users\leski\desktop\ecemon v8\ecemon\joueur.h
+	<string>
+	<vector>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+
+1606313336 c:\users\leski\desktop\ecemon v8\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606313954 source:c:\users\leski\desktop\ecemon v8\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606310058 source:c:\users\leski\desktop\ecemon v8\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606310058 c:\users\leski\desktop\ecemon v8\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+
+1606313806 source:c:\users\leski\desktop\ecemon v8\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606321797 source:c:\users\leski\desktop\ecemon v8\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606321924 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606321924 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606321925 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606321925 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\carte.h
+	<string>
+
+1606326444 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\attaque.h
+	<string>
+	<iostream>
+
+1606321924 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606321925 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\energie.h
+	"Carte.h"
+
+1606321925 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606321925 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606321925 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606321925 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606321925 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606321925 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606321925 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606328677 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\joueur.h
+	<string>
+	<vector>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+
+1606323059 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606347421 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606328728 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606323311 c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+
+1606334821 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606323059 source:c:\users\luu-anh vuong\desktop\projet ecemon\2511 ben v1\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606321926 source:c:\users\manon\desktop\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606321926 c:\users\manon\desktop\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606321926 c:\users\manon\desktop\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606321926 c:\users\manon\desktop\ecemon\carte.h
+	<string>
+
+1606326446 c:\users\manon\desktop\ecemon\attaque.h
+	<string>
+	<iostream>
+
+1606321926 source:c:\users\manon\desktop\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606321926 c:\users\manon\desktop\ecemon\energie.h
+	"Carte.h"
+
+1606321926 source:c:\users\manon\desktop\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606321926 source:c:\users\manon\desktop\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606321926 source:c:\users\manon\desktop\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606386820 source:c:\users\manon\desktop\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606321926 c:\users\manon\desktop\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606321926 source:c:\users\manon\desktop\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606321926 c:\users\manon\desktop\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606387037 c:\users\manon\desktop\ecemon\joueur.h
+	<string>
+	<vector>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+
+1606323060 c:\users\manon\desktop\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606347472 source:c:\users\manon\desktop\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606387487 source:c:\users\manon\desktop\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606323312 c:\users\manon\desktop\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+
+1606334822 source:c:\users\manon\desktop\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606323060 source:c:\users\manon\desktop\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606386819 source:c:\users\manon\desktop\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1606384810 c:\users\manon\desktop\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606385072 source:c:\users\manon\desktop\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1606384810 c:\users\manon\desktop\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606386820 source:c:\users\manon\desktop\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1606385589 c:\users\manon\desktop\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1606386819 source:c:\users\manon\desktop\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1606385731 c:\users\manon\desktop\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606386820 source:c:\users\manon\desktop\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1606386020 c:\users\manon\desktop\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1606386820 source:c:\users\manon\desktop\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1606386309 c:\users\manon\desktop\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1606386820 source:c:\users\manon\desktop\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1606386574 c:\users\manon\desktop\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1606497695 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1606397220 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606399413 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606397221 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\carte.h
+	<string>
+
+1606397220 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\attaque.h
+	<string>
+	<iostream>
+
+1606497700 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606397220 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606497686 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1606397220 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1606397220 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606397221 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\energie.h
+	"Carte.h"
+
+1606497705 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1606397221 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606397221 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606497710 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1606397221 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1606497714 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1606397221 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606497641 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606397221 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606497720 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606397221 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606497724 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1606397221 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1606397221 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606397221 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606502100 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\joueur.h
+	<string>
+	<vector>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+
+1606397221 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1606497808 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606497734 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1606501871 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606500932 c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1606497746 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606501682 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606502174 source:c:\users\luu-anh vuong\desktop\projet ecemon\2611v1\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606497696 source:c:\users\leski\desktop\ecemon v3\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606399414 c:\users\leski\desktop\ecemon v3\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\carte.h
+	<string>
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\attaque.h
+	<string>
+	<iostream>
+
+1606497702 source:c:\users\leski\desktop\ecemon v3\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606497688 source:c:\users\leski\desktop\ecemon v3\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1606397222 source:c:\users\leski\desktop\ecemon v3\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\energie.h
+	"Carte.h"
+
+1606497706 source:c:\users\leski\desktop\ecemon v3\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606397222 source:c:\users\leski\desktop\ecemon v3\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606497712 source:c:\users\leski\desktop\ecemon v3\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1606497716 source:c:\users\leski\desktop\ecemon v3\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606497642 source:c:\users\leski\desktop\ecemon v3\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606397222 source:c:\users\leski\desktop\ecemon v3\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606497722 source:c:\users\leski\desktop\ecemon v3\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606497726 source:c:\users\leski\desktop\ecemon v3\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1606397222 source:c:\users\leski\desktop\ecemon v3\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606647637 c:\users\leski\desktop\ecemon v3\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+
+1606397222 c:\users\leski\desktop\ecemon v3\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1606497810 c:\users\leski\desktop\ecemon v3\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606497736 source:c:\users\leski\desktop\ecemon v3\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1606657607 source:c:\users\leski\desktop\ecemon v3\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606500934 c:\users\leski\desktop\ecemon v3\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1606502176 source:c:\users\leski\desktop\ecemon v3\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606497748 source:c:\users\leski\desktop\ecemon v3\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606657730 source:c:\users\leski\desktop\ecemon v3\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\carte.h
+	<string>
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\attaque.h
+	<string>
+	<iostream>
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\energie.h
+	"Carte.h"
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606660725 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+
+1606659957 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1606659958 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606659957 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1606660449 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606659958 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1606660849 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606659958 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v3\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\carte.h
+	<string>
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\attaque.h
+	<string>
+	<iostream>
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\energie.h
+	"Carte.h"
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606660726 c:\users\leski\desktop\ecemon v4\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+
+1606659958 c:\users\leski\desktop\ecemon v4\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1606659960 c:\users\leski\desktop\ecemon v4\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606664865 source:c:\users\leski\desktop\ecemon v4\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606659958 source:c:\users\leski\desktop\ecemon v4\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1606660450 source:c:\users\leski\desktop\ecemon v4\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606659960 c:\users\leski\desktop\ecemon v4\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1606660850 source:c:\users\leski\desktop\ecemon v4\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606659960 source:c:\users\leski\desktop\ecemon v4\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\carte.h
+	<string>
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\attaque.h
+	<string>
+	<iostream>
+
+1606837300 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\energie.h
+	"Carte.h"
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1606837009 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606831326 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+
+1606665793 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1606835730 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606853599 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1606832640 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606665936 c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1606852559 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606665793 source:c:\users\luu-anh vuong\desktop\projet ecemon\2911 ben v4\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\carte.h
+	<string>
+
+1606915433 c:\users\leski\desktop\01 12 luu v1\ecemon\attaque.h
+	<string>
+	<iostream>
+	"console.h"
+
+1606837302 source:c:\users\leski\desktop\01 12 luu v1\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1606915739 source:c:\users\leski\desktop\01 12 luu v1\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\energie.h
+	"Carte.h"
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1606837010 source:c:\users\leski\desktop\01 12 luu v1\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606914256 c:\users\leski\desktop\01 12 luu v1\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+	"console.h"
+
+1606665794 c:\users\leski\desktop\01 12 luu v1\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1606835732 c:\users\leski\desktop\01 12 luu v1\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1445693720 c:\users\leski\desktop\01 12 luu v1\ecemon\console.h
+	<iostream>
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1606914357 source:c:\users\leski\desktop\01 12 luu v1\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606914256 c:\users\leski\desktop\01 12 luu v1\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"console.h"
+
+1606665794 source:c:\users\leski\desktop\01 12 luu v1\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1445693738 source:c:\users\leski\desktop\01 12 luu v1\ecemon\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1606917026 source:c:\users\leski\desktop\01 12 luu v1\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606917861 source:c:\users\leski\desktop\01 12 luu v1\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606926362 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1606926362 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606926362 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\carte.h
+	<string>
+
+1606929114 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\attaque.h
+	<string>
+	<iostream>
+	"console.h"
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\console.h
+	<iostream>
+
+1606926362 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606926362 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606926362 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1606926362 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1606929097 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\energie.h
+	"Carte.h"
+
+1606926362 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1606926362 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606926362 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606926362 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1606926362 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1606926363 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606926363 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1606926363 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606926363 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606926363 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606926363 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1606926363 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+	"console.h"
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606926363 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1606926363 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606926363 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"console.h"
+
+1606926363 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606928893 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606929141 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v1\01 12 luu v1\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\carte.h
+	<string>
+
+1606929116 c:\users\leski\desktop\02 12 luu v1\ecemon\attaque.h
+	<string>
+	<iostream>
+	"console.h"
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\console.h
+	<iostream>
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1606929098 source:c:\users\leski\desktop\02 12 luu v1\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\energie.h
+	"Carte.h"
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\jeu.cpp
+	"Jeu.h"
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+	"console.h"
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1606926364 c:\users\leski\desktop\02 12 luu v1\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"console.h"
+
+1606926364 source:c:\users\leski\desktop\02 12 luu v1\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1606929629 source:c:\users\leski\desktop\02 12 luu v1\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606929733 source:c:\users\leski\desktop\02 12 luu v1\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1607009661 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\carte.h
+	<string>
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\attaque.h
+	<string>
+	<iostream>
+	"console.h"
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\console.h
+	<iostream>
+
+1607009601 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1607010062 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1607008397 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\energie.h
+	"Carte.h"
+
+1607010027 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607008397 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1607009735 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1607008397 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607008397 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1607009449 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1607008397 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1607008397 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1607010091 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1607008397 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\jeu.cpp
+	"Jeu.h"
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\jeu.h
+	<vector>
+	"Carte.h"
+	<iostream>
+	"Archer.h"
+	"Guerrier.h"
+	"Joueur.h"
+	"Energie.h"
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+	"console.h"
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1607008398 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1607016503 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1607010111 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1607018181 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+
+1607008397 c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"console.h"
+
+1607017944 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1607008398 source:c:\users\luu-anh vuong\desktop\projet ecemon\02 12 ben v2\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1607009662 source:c:\users\leski\desktop\luu 0312 v1\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\carte.h
+	<string>
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\attaque.h
+	<string>
+	<iostream>
+	"console.h"
+
+1607161246 c:\users\leski\desktop\luu 0312 v1\ecemon\console.h
+	<iostream>
+
+1607009602 source:c:\users\leski\desktop\luu 0312 v1\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1607010064 source:c:\users\leski\desktop\luu 0312 v1\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1607008398 source:c:\users\leski\desktop\luu 0312 v1\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\energie.h
+	"Carte.h"
+
+1607010028 source:c:\users\leski\desktop\luu 0312 v1\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607008398 source:c:\users\leski\desktop\luu 0312 v1\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1607009736 source:c:\users\leski\desktop\luu 0312 v1\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1607008398 source:c:\users\leski\desktop\luu 0312 v1\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607161322 source:c:\users\leski\desktop\luu 0312 v1\ecemon\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1607009450 source:c:\users\leski\desktop\luu 0312 v1\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1607008398 source:c:\users\leski\desktop\luu 0312 v1\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1607008398 source:c:\users\leski\desktop\luu 0312 v1\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1607010092 source:c:\users\leski\desktop\luu 0312 v1\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1607090407 source:c:\users\leski\desktop\luu 0312 v1\ecemon\jeu.cpp
+
+1607161630 c:\users\leski\desktop\luu 0312 v1\ecemon\jeu.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+	"console.h"
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+	"console.h"
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1607008400 c:\users\leski\desktop\luu 0312 v1\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1607087759 source:c:\users\leski\desktop\luu 0312 v1\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1607010112 source:c:\users\leski\desktop\luu 0312 v1\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1607161630 source:c:\users\leski\desktop\luu 0312 v1\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	<vector>
+	<fstream>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	"Match.h"
+	"console.h"
+
+1607008398 c:\users\leski\desktop\luu 0312 v1\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"console.h"
+
+1607091295 source:c:\users\leski\desktop\luu 0312 v1\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1607008400 source:c:\users\leski\desktop\luu 0312 v1\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1607090407 c:\users\leski\desktop\luu 0312 v1\ecemon\jeu.cpp
+
+1607224273 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\carte.h
+	<string>
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\attaque.h
+	<string>
+	<iostream>
+	"console.h"
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\console.h
+	<iostream>
+
+1607224315 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1607224370 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1607224496 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1607169609 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\energie.h
+	"Carte.h"
+
+1607224518 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607224586 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1607224605 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1607224626 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607224657 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1607209581 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1607209649 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1607169609 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1607169609 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1607209792 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1607169609 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1607209784 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1607169609 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1607169609 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	<vector>
+	<fstream>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	"Match.h"
+	"console.h"
+
+1607219778 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+	"console.h"
+
+1607169609 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1607189001 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\jeu.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+	"console.h"
+
+1607169609 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"console.h"
+
+1607220365 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1607209605 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1607222912 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	"Buffer.h"
+
+1607169608 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0512 v1\ecemon\buffer.h
+	<iostream>
+	<cstdlib>
+	<limits>
+
+1607224274 source:c:\users\leski\desktop\luu 0612 v1\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\carte.h
+	<string>
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\attaque.h
+	<string>
+	<iostream>
+	"console.h"
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\console.h
+	<iostream>
+
+1607224316 source:c:\users\leski\desktop\luu 0612 v1\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1607224372 source:c:\users\leski\desktop\luu 0612 v1\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1607224498 source:c:\users\leski\desktop\luu 0612 v1\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\energie.h
+	"Carte.h"
+
+1607224520 source:c:\users\leski\desktop\luu 0612 v1\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607224588 source:c:\users\leski\desktop\luu 0612 v1\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1607224606 source:c:\users\leski\desktop\luu 0612 v1\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1607224628 source:c:\users\leski\desktop\luu 0612 v1\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607224658 source:c:\users\leski\desktop\luu 0612 v1\ecemon\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1607224994 source:c:\users\leski\desktop\luu 0612 v1\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1607225054 source:c:\users\leski\desktop\luu 0612 v1\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1607225104 source:c:\users\leski\desktop\luu 0612 v1\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1607225136 source:c:\users\leski\desktop\luu 0612 v1\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1607225164 source:c:\users\leski\desktop\luu 0612 v1\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1607225304 source:c:\users\leski\desktop\luu 0612 v1\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	<vector>
+	<fstream>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	"Match.h"
+	"console.h"
+
+1607219780 c:\users\leski\desktop\luu 0612 v1\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+	"console.h"
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1607189002 c:\users\leski\desktop\luu 0612 v1\ecemon\jeu.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+	"console.h"
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"console.h"
+
+1607228446 source:c:\users\leski\desktop\luu 0612 v1\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1607225080 source:c:\users\leski\desktop\luu 0612 v1\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1607279790 source:c:\users\leski\desktop\luu 0612 v1\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	"Buffer.h"
+
+1607169610 c:\users\leski\desktop\luu 0612 v1\ecemon\buffer.h
+	<iostream>
+	<cstdlib>
+	<limits>
+
+1607286823 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\arbaletrier.cpp
+	"Arbaletrier.h"
+	<iostream>
+
+1607286823 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\arbaletrier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\creature.h
+	"Carte.h"
+	"Attaque.h"
+	<vector>
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\carte.h
+	<string>
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\attaque.h
+	<string>
+	<iostream>
+	"console.h"
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\console.h
+	<iostream>
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\archer.cpp
+	"Archer.h"
+	<iostream>
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\archer.h
+	"Creature.h"
+	"Attaque.h"
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\arthur_pendragon.cpp
+	"Arthur_Pendragon.h"
+	<iostream>
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\arthur_pendragon.h
+	"Attaque.h"
+	"Creature.h"
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\attaque.cpp
+	"Attaque.h"
+	"Energie.h"
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\energie.h
+	"Carte.h"
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\belier.cpp
+	"Belier.h"
+	<iostream>
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\belier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\carte.cpp
+	"Carte.h"
+	<iostream>
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\catapulte.cpp
+	"Catapulte.h"
+	<iostream>
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\catapulte.h
+	"Creature.h"
+	"Attaque.h"
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\cavalier.cpp
+	"Cavalier.h"
+	<iostream>
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\cavalier.h
+	"Creature.h"
+	"Attaque.h"
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\creature.cpp
+	"Creature.h"
+	<iostream>
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\energie.cpp
+	<iostream>
+	"Energie.h"
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\guerrier.cpp
+	"Guerrier.h"
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\guerrier.h
+	"Creature.h"
+	"Attaque.h"
+	<iostream>
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\jeanne_d_arc.cpp
+	"Jeanne_D_arc.h"
+	<iostream>
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\jeanne_d_arc.h
+	"Attaque.h"
+	"Creature.h"
+
+1607286824 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\joueur.cpp
+	"Joueur.h"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	"Buffer.h"
+
+1607286825 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\joueur.h
+	<string>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Carte.h"
+	<queue>
+	"Creature.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Archer.h"
+	"Guerrier.h"
+	<fstream>
+	"Energie.h"
+	<iostream>
+	"Speciale.h"
+	"console.h"
+
+1607286825 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\lancelot_dulac.h
+	"Attaque.h"
+	"Creature.h"
+
+1607286825 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\speciale.h
+	"Carte.h"
+	"Joueur.h"
+
+1607286824 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\buffer.h
+	<iostream>
+	<cstdlib>
+	<limits>
+
+1607286825 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\lancelot_dulac.cpp
+	"Lancelot_duLac.h"
+	<iostream>
+
+1607286825 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	<vector>
+	<fstream>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	"Guerrier.h"
+	"Jeu.h"
+	"Energie.h"
+	"Match.h"
+	"console.h"
+
+1607287732 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\jeu.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<cstdlib>
+	"Carte.h"
+	"Attaque.h"
+	"Archer.h"
+	"Cavalier.h"
+	"Arbaletrier.h"
+	"Catapulte.h"
+	"Belier.h"
+	"Arthur_Pendragon.h"
+	"Jeanne_D_arc.h"
+	"Lancelot_duLac.h"
+	"Joueur.h"
+	<vector>
+	"Guerrier.h"
+	"Energie.h"
+	<fstream>
+	"Match.h"
+	"console.h"
+
+1607286825 c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\match.h
+	"Joueur.h"
+	"Carte.h"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"console.h"
+
+1607286825 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\match.cpp
+	"Match.h"
+	<iostream>
+
+1607286825 source:c:\users\luu-anh vuong\desktop\projet ecemon\ben 0612 v1\ecemon\speciale.cpp
+	"Speciale.h"
+	<iostream>
+

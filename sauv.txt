@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+
+
+
+
+BEN
+21
+Distance
+Distance
+Distance
+Distance
+Distance
+Distance
+Distance
+Guerrier
+Guerrier
+Guerrier
+Guerrier
+Guerrier
+Guerrier
+Guerrier
+Galvanisation
+Priere
+
+
+
+TEST
+42
+Heros
+Distance
+
+
+JEAN
+18
+Corps a corps
+Corps a corps
+Corps a corps
+Corps a corps
+Archer
+Archer
+Archer
+Archer
+Archer
+Priere
+Priere
+Priere
+Priere
+Priere
+Priere
+Priere
+Priere
+Priere
+Priere
+Priere
+Corps a corps
+Butin
+Espion
+Resurrection
+Priere
+Priere
+Corps a corps
+
+
+
+PEPPE
+41
+Corps a corps
+Corps a corps
+Corps a corps
+Corps a corps
+
